@@ -1,0 +1,37 @@
+*{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+div{
+border: 0.1rem solid #ccc;
+width: 20rem;
+margin: 1rem auto;
+padding: 0.5rem;
+height: 27rem;
+box-shadow: 0.5rem 0.5rem .3rem #4539f5;
+border-radius: 0.5rem;
+}
+img{
+    width: 100%;
+}
+button{
+    width: 100%;
+    padding: .5rem;
+    border: none;
+    background-color: #4539f5;
+    color: #f7f0f0;
+    border-radius: .5rem;
+}
+button:hover{
+    background-color: #7e89ec;
+    color:white
+
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
+#link{
+    text-align: center;
+}
